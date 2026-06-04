@@ -108,7 +108,7 @@ nyc-yellow-taxi-eda/
 
 4. **Open the notebook**
    ```bash
-   jupyter notebook EDA_Assg_NYC_Taxi_Harshu.ipynb
+   jupyter notebook EDA_Optimising_NYC_Taxis_Harshita_Chandaiya.ipynb
    ```
    Or open it directly in [Google Colab](https://colab.research.google.com/).
 
